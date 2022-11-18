@@ -16,9 +16,7 @@
 - Compiles to native
 - It is simple to learn
 
-<p align="center">
-<img height="600" width="auto" src="screenshot.png" />
-</p>
+
 
 ## Contributing
 
@@ -33,7 +31,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Special Thanks
 
 - Flutter and Flame Discord community
-- [@japalekhin (check out his Flame guides)](https://github.com/japalekhin)
+
 
 ## License
 
